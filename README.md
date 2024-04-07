@@ -13,6 +13,7 @@ Long answer: Forge changed alot going from 1.19.2 to 1.20.4. Like creative menus
 ### Currently implemented:
 - Diamond Ore variants for diffrent stones*
 - All the glass varients*
+
 *= Crafting recipies and loot talbles aren't implemented.
 
 ### TODO:
