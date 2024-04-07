@@ -22,6 +22,6 @@ Long answer: Forge changed alot going from 1.19.2 to 1.20.4. Like creative menus
 - More.
 
 ## License Information:
-Click [here](https://www.apache.org/licenses/LICENSE-2.0) for the license. 
+Click [here]((https://opensource.org/license/mit) for the license. 
 
 Breadofish, 2024.
