@@ -89,6 +89,7 @@ public class rocksolid
     //Func adds stuff to the creative menu
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
+        //Is this really needed? All Creative mode tabs should be in item/creativemodetabs
         if (event.getTabKey() == CreativeModeTabs.COMBAT)
             event.accept(ModItems.amongus);
     }
