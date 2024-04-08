@@ -17,6 +17,9 @@ public class ModItems {
     public static final RegistryObject<Item> amongus = ITEMS.register("amongus",
             ()-> new Item(new Item.Properties().food(ModFoods.AmongUs)));
 
+    //This might not work. I made this on a school laptop :skull:
+    public static final RegistryObject<Item> enderite_ingot = ITEMS.register("enderiteingot",
+            ()-> new Item(new Item.Properties()));
 
     //I don't know what the fuck that function does
     public static void register(IEventBus eventBus) {
